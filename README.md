@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I´m working as Web developer and designer, I'm currently finishing my Front End Master too!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="dhren" src="https://github.com/dhren2019/portfolio2020/blob/main/developer-coding-in-php.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
