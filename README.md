@@ -97,7 +97,7 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
 
 ---
 
-### � Trabajos SEO y Marketing Digital / SEO & Digital Marketing Work
+### 💼 Trabajos SEO y Marketing Digital / SEO & Digital Marketing Work
 
 
 Me especializo en el desarrollo de aplicaciones SaaS modernas utilizando tecnologías de vanguardia como Next.js, Stripe para pagos, integración de IA y otras herramientas avanzadas. Aquí algunos ejemplos de mis trabajos en SEO y marketing digital:
@@ -125,7 +125,7 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 
 ---
 
-### �💻 Tecnologías y herramientas / Technologies & Tools
+### 💻 Tecnologías y herramientas / Technologies & Tools
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
