@@ -99,6 +99,7 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
 
 ### � Trabajos SEO y Marketing Digital / SEO & Digital Marketing Work
 
+
 Me especializo en el desarrollo de aplicaciones SaaS modernas utilizando tecnologías de vanguardia como Next.js, Stripe para pagos, integración de IA y otras herramientas avanzadas. Aquí algunos ejemplos de mis trabajos en SEO y marketing digital:
 
 I specialize in developing modern SaaS applications using cutting-edge technologies like Next.js, Stripe for payments, AI integration, and other advanced tools. Here are some examples of my SEO and digital marketing work:
@@ -125,6 +126,7 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 ---
 
 ### �💻 Tecnologías y herramientas / Technologies & Tools
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -205,5 +207,6 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 
 <!-- Este README fue creado por Dhren -->
 ⭐️ De [Dhren](https://github.com/dhren2019)
+
 
 ---
