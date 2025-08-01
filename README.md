@@ -169,7 +169,7 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 ### 📊 Otras estadísticas / More Stats
 
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhren2019&theme=radical&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhren2019&theme=radical)
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=dhren2019&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=dhren2019&theme=radical))
 
 ---
 
