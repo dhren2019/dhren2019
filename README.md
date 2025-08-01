@@ -15,14 +15,13 @@ Welcome to my GitHub page! I’m a passionate web developer and designer focused
 ### 🚀 Sobre mí / About me
 - Desarrollador web en [Jerpublicidad](https://jerpublicidad.com), donde diseño y construyo interfaces modernas y funcionales.
 - Experiencia en proyectos de alto impacto tanto freelance como en agencias.
-- Ampliando constantemente mis habilidades con tecnologías frontend y backend.
-- Colaboro en proyectos de código abierto y disfruto compartir conocimientos con la comunidad.
+Ampliando constantemente mis habilidades con tecnologías frontend y backend.
+Colaboro en proyectos de código abierto y disfruto compartir conocimientos con la comunidad.
+He trabajado tres meses impartiendo cursos de formación para [bilib.es](https://www.bilib.es/) en puntos de inclusión digital en Talavera, Méntrida, Camuñas e Illescas.
 
 - Web developer at [Jerpublicidad](https://jerpublicidad.com), designing and building modern, functional interfaces.
 - Experience in high-impact projects both freelance and at agencies.
-- Constantly expanding my skills in frontend and backend technologies.
-- Open-source enthusiast and passionate about sharing knowledge with the community.
-
+I worked for three months teaching training courses for [bilib.es](https://www.bilib.es/) at digital inclusion centers in Talavera, Méntrida, Camuñas, and Illescas.
 ---
 
 ### 💼 Trabajos recientes / Recent Work
@@ -35,7 +34,12 @@ Welcome to my GitHub page! I’m a passionate web developer and designer focused
   Sitio web premiado, enfocado en la experiencia de usuario y el diseño visual.  
   _Desplegado en Vercel_  
   Award-winning website focused on user experience and visual design.  
-  _Deployed on Vercel_
+
+- **[Anime API Platform](https://www.animeapiplatform.com/)**  
+  Plataforma para desarrolladores web, apps y más, que ofrece una API con información de más de 39,000 animes y también manga. Incluye un bot de IA para asistir a los usuarios, desarrollado con Next.js, Stripe, Drizzle Database y la API de Google Gemini.  
+  Platform for web and app developers, providing an API with information on over 39,000 anime titles and manga. Includes an AI bot to assist users, built with Next.js, Stripe, Drizzle Database, and Google Gemini API.
+  
+  ---
 
 - **[AI Study](https://ai-study-theta.vercel.app/)**  
   Plataforma de aprendizaje personalizado con inteligencia artificial.  
@@ -93,11 +97,43 @@ Welcome to my GitHub page! I’m a passionate web developer and designer focused
 
 ---
 
-### 💻 Tecnologías y herramientas / Technologies & Tools
+### � Trabajos SEO y Marketing Digital / SEO & Digital Marketing Work
+
+Me especializo en el desarrollo de aplicaciones SaaS modernas utilizando tecnologías de vanguardia como Next.js, Stripe para pagos, integración de IA y otras herramientas avanzadas. Aquí algunos ejemplos de mis trabajos en SEO y marketing digital:
+
+I specialize in developing modern SaaS applications using cutting-edge technologies like Next.js, Stripe for payments, AI integration, and other advanced tools. Here are some examples of my SEO and digital marketing work:
+
+![SEO Work Example 1](https://github.com/dhren2019/dhren2019/blob/main/seo1.PNG)
+
+![Cámara Toledo SEO](https://github.com/dhren2019/dhren2019/blob/main/camaratoledo.PNG)
+
+![SEO Work Example 2](https://github.com/dhren2019/dhren2019/blob/main/seo-2.PNG)
+
+**🚀 Mi pasión por las aplicaciones SaaS / My passion for SaaS applications:**
+- Desarrollo de plataformas escalables con Next.js y React
+- Integración de sistemas de pago seguros con Stripe
+- Implementación de IA para mejorar la experiencia del usuario
+- Optimización SEO para maximizar la visibilidad orgánica
+- Análisis de métricas y conversiones para optimización continua
+
+- Development of scalable platforms with Next.js and React
+- Integration of secure payment systems with Stripe
+- AI implementation to enhance user experience
+- SEO optimization to maximize organic visibility
+- Metrics and conversion analysis for continuous optimization
+
+---
+
+### �💻 Tecnologías y herramientas / Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
@@ -162,5 +198,12 @@ Welcome to my GitHub page! I’m a passionate web developer and designer focused
 - Contáctame por [email](mailto:roglobar10@gmail.com) para colaborar o si tienes alguna pregunta.  
   Contact me by [email](mailto:roglobar10@gmail.com) for collaboration or questions.
 
+ ### 🛠️ Otros conocimientos / Other skills
+
+- Photoshop, Illustrator, InDesign, FTP, servidores privados, GitHub, IA, migración de webs y emails, Inglés B2
+- Photoshop, Illustrator, InDesign, FTP, private servers, GitHub, AI, website and email migration, English B2
+
 <!-- Este README fue creado por Dhren -->
 ⭐️ De [Dhren](https://github.com/dhren2019)
+
+---
