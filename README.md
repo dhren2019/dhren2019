@@ -8,7 +8,7 @@
 
 Welcome to my GitHub page! I’m a passionate web developer and designer focused on creating innovative, efficient solutions for the web. Here you’ll find some of my featured projects, recent contributions, and professional work.
 
-![dhren placeholder]([https://via.placeholder.com/900x300?text=Rodrigo+%2F+dhren2019](https://github.com/dhren2019/dhren2019/blob/main/developer-coding-in-php.jpg))
+![dhren placeholder](https://github.com/dhren2019/dhren2019/blob/main/developer-coding-in-php.jpg)
 
 ---
 
