@@ -8,7 +8,7 @@
 
 Welcome to my GitHub page! I’m a passionate web developer and designer focused on creating innovative, efficient solutions for the web. Here you’ll find some of my featured projects, recent contributions, and professional work.
 
-![dhren](https://github.com/dhren2019/portfolio2020/blob/main/developer-coding-in-php.jpg)
+![dhren placeholder](https://via.placeholder.com/900x300?text=Rodrigo+%2F+dhren2019)
 
 ---
 
@@ -59,6 +59,14 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
   Cryptocurrency trading dashboard with real-time visualization and portfolio management.  
   _Deployed on Vercel_
 
+- **[Starter SaaS Boilerplate](https://roglobar.gumroad.com/l/COMPLETE-SAAS-STARTER-BOILERPLATE)**  
+  Plantilla completa para arrancar proyectos SaaS: incluye interfaz (UI), autenticación, integración con Stripe, dashboards y ejemplos listos para desplegar. _Enlace de compra en Gumroad._  
+  Complete SaaS starter boilerplate including UI, authentication, Stripe payments integration, dashboards and ready-to-deploy examples. _Purchase: Gumroad._
+
+- **[AI NEWS HUB — Complete SaaS Product Ready to Launch](https://roglobar.gumroad.com/l/ainewshub-complete-saas-ready-to-use)**  
+  Producto SaaS completo para agregación y curación de noticias con IA; incluye panel de administración, sistema de suscripciones y despliegue listo para producción. _Enlace de compra en Gumroad._  
+  AI-powered news hub SaaS product with aggregation and AI curation, admin panel, subscription system and ready-to-launch deployment. _Purchase: Gumroad._
+
 - **[AI Coaching Voice Agent](https://ai-coaching-voice-agent.vercel.app/)**  
   Asistente coaching por voz con IA y análisis de conversaciones.  
   _Desplegado en Vercel_  
@@ -104,11 +112,11 @@ Me especializo en el desarrollo de aplicaciones SaaS modernas utilizando tecnolo
 
 I specialize in developing modern SaaS applications using cutting-edge technologies like Next.js, Stripe for payments, AI integration, and other advanced tools. Here are some examples of my SEO and digital marketing work:
 
-![SEO Work Example 1](https://github.com/dhren2019/dhren2019/blob/main/seo1.PNG)
+![SEO Work Example 1](https://raw.githubusercontent.com/dhren2019/dhren2019/main/seo1.PNG)
 
-![Cámara Toledo SEO](https://github.com/dhren2019/dhren2019/blob/main/camaratoledo.PNG)
+![Cámara Toledo SEO](https://raw.githubusercontent.com/dhren2019/dhren2019/main/camaratoledo.PNG)
 
-![SEO Work Example 2](https://github.com/dhren2019/dhren2019/blob/main/seo-2.PNG)
+![SEO Work Example 2](https://raw.githubusercontent.com/dhren2019/dhren2019/main/seo-2.PNG)
 
 **🚀 Mi pasión por las aplicaciones SaaS / My passion for SaaS applications:**
 - Desarrollo de plataformas escalables con Next.js y React
@@ -162,14 +170,15 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 
 ### 📈 Estadísticas de GitHub / GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhren2019&show_icons=true&theme=radical)
+[![Followers](https://img.shields.io/github/followers/dhren2019?label=Followers&style=flat-square&logo=github)](https://github.com/dhren2019)
+[![Profile](https://img.shields.io/badge/GitHub-dhren2019-181717?style=flat-square&logo=github)](https://github.com/dhren2019)
 
 ---
 
 ### 📊 Otras estadísticas / More Stats
 
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhren2019&theme=radical&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhren2019&theme=radical)
+[![GitHub Repo](https://img.shields.io/badge/Repositories-See%20profile-lightgrey?style=flat-square&logo=github)](https://github.com/dhren2019?tab=repositories)
+[![Contributions](https://img.shields.io/badge/Contributions-See%20profile-lightgrey?style=flat-square&logo=github)](https://github.com/dhren2019)
 
 ---
 
