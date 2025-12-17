@@ -4,9 +4,9 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dhren2019)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:roglobar10@gmail.com)
 
-¡Bienvenido/a a mi página de Github! Soy un desarrollador y diseñador web apasionado por crear soluciones innovadoras y eficientes en la web. Aquí encontrarás algunos de mis proyectos destacados, contribuciones y trabajos profesionales más recientes.
+¡Bienvenido/a a mi página de Github! Soy un desarrollador y diseñador web apasionado por crear soluciones innovadoras y eficientes en la web. Aquí encontrarás algunos de mis proyectos destacados, contribuciones recientes y más sobre mi trayectoria profesional.
 
-Welcome to my GitHub page! I’m a passionate web developer and designer focused on creating innovative, efficient solutions for the web. Here you’ll find some of my featured projects, recent contributions, and professional work.
+Welcome to my GitHub page! I’m a passionate web developer and designer focused on creating innovative, efficient solutions for the web. Here you’ll find some of my featured projects, recent contributions, and more about my professional journey.
 
 ![dhren placeholder](https://github.com/dhren2019/dhren2019/blob/main/developer-coding-in-php.jpg)
 
@@ -33,13 +33,19 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
 - **[Award Website](https://award-website-sigma.vercel.app/)**  
   Sitio web premiado, enfocado en la experiencia de usuario y el diseño visual.  
   _Desplegado en Vercel_  
-  Award-winning website focused on user experience and visual design.  
+  Award-winning website focused on user experience and visual design.
 
 - **[Anime API Platform](https://www.animeapiplatform.com/)**  
-  Plataforma para desarrolladores web, apps y más, que ofrece una API con información de más de 39,000 animes y también manga. Incluye un bot de IA para asistir a los usuarios, desarrollado con Next.js, Stripe, Drizzle Database y la API de Google Gemini.  
-  Platform for web and app developers, providing an API with information on over 39,000 anime titles and manga. Includes an AI bot to assist users, built with Next.js, Stripe, Drizzle Database, and Google Gemini API.
-  
-  ---
+  Plataforma para desarrolladores web, apps y más, que ofrece una API con información de más de 39,000 animes y también manga. Incluye un bot de IA para asistir a los usuarios, desarrollado con Next.js, Stripe, Drizzle Database y OpenAI.  
+  Platform for web and app developers, providing an API with information on over 39,000 anime titles and manga. Includes an AI bot to assist users, built with Next.js, Stripe, Drizzle Database, and OpenAI.
+
+- **[Starter History](https://starter-history.vercel.app/)**  
+  Aplicación web para crear historias familiares y árboles genealógicos. Permite completar un cuestionario de 220 preguntas para recopilar la historia completa de una persona, organizar a los familiares en un árbol genealógico y generar PDFs imprimables con la biografía o historia familiar lista para compartir o conservar. Ideal para proyectos de memoria familiar, recopilación de genealogía y generación de documentos imprimibles.  
+  _Desplegado en Vercel_  
+  Web application to create family histories and genealogical trees. It includes a 220-question guided questionnaire to collect a person's full life story, tools to organize relatives into a family tree, and the ability to generate printable PDFs with the complete personal history ready to share or archive. Ideal for family memory projects, genealogy collection, and printable document generation.  
+  _Deployed on Vercel_
+
+---
 
 - **[AI Study](https://ai-study-theta.vercel.app/)**  
   Plataforma de aprendizaje personalizado con inteligencia artificial.  
@@ -107,8 +113,7 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
 
 ### 💼 Trabajos SEO y Marketing Digital / SEO & Digital Marketing Work
 
-
-Me especializo en el desarrollo de aplicaciones SaaS modernas utilizando tecnologías de vanguardia como Next.js, Stripe para pagos, integración de IA y otras herramientas avanzadas. Aquí algunos ejemplos de mis trabajos en SEO y marketing digital:
+Me especializo en el desarrollo de aplicaciones SaaS modernas utilizando tecnologías de vanguardia como Next.js, Stripe para pagos, integración de IA y otras herramientas avanzadas. Aquí algunos ejemplos de mi trabajo en SEO y marketing digital:
 
 I specialize in developing modern SaaS applications using cutting-edge technologies like Next.js, Stripe for payments, AI integration, and other advanced tools. Here are some examples of my SEO and digital marketing work:
 
@@ -135,7 +140,6 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 
 ### 💻 Tecnologías y herramientas / Technologies & Tools
 
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
@@ -151,7 +155,7 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-1d202b?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgNDggNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTI0IDNDMTIuOTUgMyA0IDEyLjk1IDQgMjRzOC45NSAyMSAyMCAyMSAyMC04Ljk1IDIwLTIxUzM1LjA1IDMgMjQgM3ptMC0zQzExLjU5IDAgMCAxMS41OSAwIDI0czExLjU5IDI0IDI0IDI0IDI0LTExLjU5IDI0LTI0UzM2LjQxIDAgMjQgMHoiLz48L3N2Zz4=&label=Drizzle&style=for-the-badge)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-1d202b?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgNDggNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTI0IDJDMTEuODUgMiAyIDExLjg1IDIgMjRzOS44NSAyMiAyMiAyMiAyMi05Ljg1IDIyLTIyUzM2LjE1IDIgMjQgMnoiLz48L3N2Zz4=&logoColor=white&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![SaaS](https://img.shields.io/badge/SaaS-33AADD?logo=salesforce&logoColor=white&style=for-the-badge)
 ![API](https://img.shields.io/badge/API-FF6F00?logo=api&logoColor=white&style=for-the-badge)
@@ -194,7 +198,7 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 ---
 
 ### 🌱 Desafíos y metas / Challenges & Goals
-- Seguir profundizando en frameworks de JavaScript como React y Next.js.  
+- Seguir profundizando en frameworks de JavaScript como React y Next.js.   
   Keep deepening my knowledge in JavaScript frameworks like React and Next.js.
 - Contribuir regularmente a proyectos de código abierto.  
   Contribute regularly to open-source projects.
