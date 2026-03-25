@@ -39,13 +39,46 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
   Plataforma para desarrolladores web, apps y más, que ofrece una API con información de más de 39,000 animes y también manga. Incluye un bot de IA para asistir a los usuarios, desarrollado con Next.js, Stripe, Drizzle Database y OpenAI.  
   Platform for web and app developers, providing an API with information on over 39,000 anime titles and manga. Includes an AI bot to assist users, built with Next.js, Stripe, Drizzle Database, and OpenAI.
 
-- **[Starter History](https://starter-history.vercel.app/)**  
+---
+
+### 🏆 Hackathon e Proyectos Indie / Hackathon & Indie Projects
+
+![imagen-proyecto](images-doc/imagen-proyecto.png)
+
+- **Hackathon Cubepath 2026:** Participación en [Hackaton Cubepath](https://github.com/midudev/hackaton-cubepath-2026).
+- **IndieForgeAI (Indieforge):** Código y demo: [IndieForgeAI-hackaton-main](https://github.com/dhren2019/IndieForgeAI-hackaton-main) — Demo en https://indieforgeai.194.26.100.150.sslip.io/
+
+### FlipMemories — SaaS: Tus Historias, Preservadas para Siempre
+
+![FlipMemories 1](images-doc/flipmemories.PNG) ![FlipMemories 2](images-doc/flipmemories1.PNG)
+
   Aplicación web para crear historias familiares y árboles genealógicos. Permite completar un cuestionario de 220 preguntas para recopilar la historia completa de una persona, organizar a los familiares en un árbol genealógico y generar PDFs imprimables con la biografía o historia familiar lista para compartir o conservar. Ideal para proyectos de memoria familiar, recopilación de genealogía y generación de documentos imprimibles.  
-  _Desplegado en Vercel_  
+
   Web application to create family histories and genealogical trees. It includes a 220-question guided questionnaire to collect a person's full life story, tools to organize relatives into a family tree, and the ability to generate printable PDFs with the complete personal history ready to share or archive. Ideal for family memory projects, genealogy collection, and printable document generation.  
-  _Deployed on Vercel_
+
+### Rutas por Toledo — Plataforma de rutas gamificadas en Toledo
+
+![Rutas Web app](images-doc/rutas-toledo.PNG)
+
+- **Backend:** ![Backend](images-doc/toledo-routes-1.PNG)  
+- **Frontend / Venta de entradas & códigos:** ![Frontend](images-doc/frontendtoledo-routes.PNG)  
+
+Plataforma Frontend, Backend y WebApp de rutas gamificadas por Toledo.  
+Frontend, Backend and WebApp platform for gamified routes around Toledo.
+
+### Asistente de Insulina — Web app
+
+<div align="center">
+  <img src="images-doc/asistente-insulina.PNG" alt="Asistente de Insulina 1" style="width:48%; margin-right:2%;" />
+  
+</div>
+
+Conectado a mi parche de glucosa; obtiene mediciones cada minuto, aprende mediante Machine Learning y recomienda unidades de insulina según sensibilidad y feedback supervisado. Incluye gamificación.  
+
+Connected to my glucose patch; retrieves readings every minute, learns via Machine Learning and recommends insulin units based on sensitivity and supervised feedback. Includes gamification.
 
 ---
+### Otros proyectos / Other projects
 
 - **[AI Study](https://ai-study-theta.vercel.app/)**  
   Plataforma de aprendizaje personalizado con inteligencia artificial.  
@@ -163,6 +196,9 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 ![Gemini](https://img.shields.io/badge/Gemini-43B1B0?logo=google&logoColor=white&style=for-the-badge)
 ![Clerk](https://img.shields.io/badge/Clerk-3E1F92?logo=clerk&logoColor=white&style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-f37e1a?logo=n8n&logoColor=white&style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-1F2937?logo=robot&logoColor=white&style=for-the-badge)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-412991?logo=openai&logoColor=white&style=for-the-badge)
 
 - **Lenguajes / Languages:** JavaScript, HTML5, CSS3, PHP, TypeScript  
 - **Frameworks y bibliotecas / Frameworks & Libraries:** React, Next.js, Drizzle  
@@ -220,6 +256,5 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 
 <!-- Este README fue creado por Dhren -->
 ⭐️ De [Dhren](https://github.com/dhren2019)
-
 
 ---
