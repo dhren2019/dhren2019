@@ -12,6 +12,18 @@ Welcome to my GitHub page! I’m a passionate web developer and designer focused
 
 ---
 
+## 🏆⭐ Premios Recientes / Recent Awards ⭐🏆
+
+> 🥇 **[ImpulsaStartup — Mejor Startup de Castilla y León](https://www.jcyl.es/web/es/empleo/impulsa-startup.html)**  
+> Ganadores del programa **ImpulsaStartup** en Castilla y León con **[Neuraskin](https://neuraskin.com)** — startup de tecnología aplicada a la salud de la piel.  
+> *Winners of the ImpulsaStartup program in Castilla y León with Neuraskin — health-tech startup focused on skin health.*
+
+> 🥇 **[ImpulsaStartup — Toledo](https://www.jcyl.es/web/es/empleo/impulsa-startup.html)**  
+> Ganadores del programa **ImpulsaStartup** en Toledo con **Rutas X Toledo** — plataforma de rutas gamificadas por la ciudad.  
+> *Winners of the ImpulsaStartup program in Toledo with Rutas X Toledo — gamified city routes platform.*
+
+---
+
 ### 🚀 Sobre mí / About me
 - Desarrollador web en [Jerpublicidad](https://jerpublicidad.com), donde diseño y construyo interfaces modernas y funcionales.
 - Experiencia en proyectos de alto impacto tanto freelance como en agencias.
@@ -56,7 +68,7 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
 
   Web application to create family histories and genealogical trees. It includes a 220-question guided questionnaire to collect a person's full life story, tools to organize relatives into a family tree, and the ability to generate printable PDFs with the complete personal history ready to share or archive. Ideal for family memory projects, genealogy collection, and printable document generation.  
 
-### Rutas por Toledo — Plataforma de rutas gamificadas en Toledo
+### ⭐ Rutas por Toledo — Plataforma de rutas gamificadas en Toledo *(Premio ImpulsaStartup Toledo 🏆)*
 
 ![Rutas Web app](images-doc/rutas-toledo.PNG)
 
