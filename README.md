@@ -1,14 +1,16 @@
 # ¡Hola! 👋 
 ## Soy Rodrigo, ¡encantado de conocerte!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dhren2019)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:roglobar10@gmail.com)
+<p align="left">
+  <a href="https://github.com/dhren2019"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github" /></a>
+  <a href="mailto:roglobar10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 ¡Bienvenido/a a mi página de Github! Soy un desarrollador y diseñador web apasionado por crear soluciones innovadoras y eficientes en la web. Aquí encontrarás algunos de mis proyectos destacados, contribuciones recientes y más sobre mi trayectoria profesional.
 
 Welcome to my GitHub page! I’m a passionate web developer and designer focused on creating innovative, efficient solutions for the web. Here you’ll find some of my featured projects, recent contributions, and more about my professional journey.
 
-![dhren placeholder](https://github.com/dhren2019/dhren2019/blob/main/developer-coding-in-php.jpg)
+![dhren placeholder](developer-coding-in-php.jpg)
 
 ---
 
@@ -41,7 +43,36 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
 
 ---
 
-### 🏆 Hackathon e Proyectos Indie / Hackathon & Indie Projects
+### 🏆 Premios y Reconocimientos / Awards & Recognition 🏆
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🥇 NEURASKIN 2026</h4>
+      <p><strong>Premio a la mejor Startup de Castilla y León.</strong></p>
+      <p><a href="images-doc/deck-neuraskin.pdf">Ver deck de NEURASKIN (PDF)</a></p>
+      <p>
+        NEURASKIN es un software inteligente para profesionales del tatuaje, diseñado para reducir la carga mental durante todo el proceso: desde la preparación del diseño hasta la planificación de la sesión.
+      </p>
+      <p>
+        Su núcleo, <strong>TRACE ENGINE</strong>, analiza anatomía, composición, color, ejecución y riesgos para convertirlo todo en un plan de sesión claro.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🥇 Rutas x Toledo 2026</h4>
+      <p><strong>Primer puesto con Rutas x Toledo.</strong></p>
+      <p><a href="https://www.rutasxtoledo.com/">Visitar Rutas x Toledo</a></p>
+      <p>
+        Videojuego turístico para móvil que transforma la visita a Toledo en una aventura interactiva.
+      </p>
+      <p>
+        Los jugadores siguen rutas, completan misiones en monumentos reales, superan retos, coleccionan cartas y desbloquean logros con experiencias 3D y realidad mixta.
+      </p>
+    </td>
+  </tr>
+</table>
+
+### Hackathon e Proyectos Indie / Hackathon & Indie Projects
 
 ![imagen-proyecto](images-doc/imagen-proyecto.png)
 
@@ -55,16 +86,6 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
   Aplicación web para crear historias familiares y árboles genealógicos. Permite completar un cuestionario de 220 preguntas para recopilar la historia completa de una persona, organizar a los familiares en un árbol genealógico y generar PDFs imprimables con la biografía o historia familiar lista para compartir o conservar. Ideal para proyectos de memoria familiar, recopilación de genealogía y generación de documentos imprimibles.  
 
   Web application to create family histories and genealogical trees. It includes a 220-question guided questionnaire to collect a person's full life story, tools to organize relatives into a family tree, and the ability to generate printable PDFs with the complete personal history ready to share or archive. Ideal for family memory projects, genealogy collection, and printable document generation.  
-
-### Rutas por Toledo — Plataforma de rutas gamificadas en Toledo
-
-![Rutas Web app](images-doc/rutas-toledo.PNG)
-
-- **Backend:** ![Backend](images-doc/toledo-routes-1.PNG)  
-- **Frontend / Venta de entradas & códigos:** ![Frontend](images-doc/frontendtoledo-routes.PNG)  
-
-Plataforma Frontend, Backend y WebApp de rutas gamificadas por Toledo.  
-Frontend, Backend and WebApp platform for gamified routes around Toledo.
 
 ### Asistente de Insulina — Web app
 
@@ -173,35 +194,35 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 
 ### 💻 Tecnologías y herramientas / Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-1d202b?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgNDggNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTI0IDJDMTEuODUgMiAyIDExLjg1IDIgMjRzOS44NSAyMiAyMiAyMiAyMi05Ljg1IDIyLTIyUzM2LjE1IDIgMjQgMnoiLz48L3N2Zz4=&logoColor=white&style=for-the-badge)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
-![SaaS](https://img.shields.io/badge/SaaS-33AADD?logo=salesforce&logoColor=white&style=for-the-badge)
-![API](https://img.shields.io/badge/API-FF6F00?logo=api&logoColor=white&style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-43B1B0?logo=google&logoColor=white&style=for-the-badge)
-![Clerk](https://img.shields.io/badge/Clerk-3E1F92?logo=clerk&logoColor=white&style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-f37e1a?logo=n8n&logoColor=white&style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-1F2937?logo=robot&logoColor=white&style=for-the-badge)
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-412991?logo=openai&logoColor=white&style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Drizzle-1d202b?style=for-the-badge&logo=drizzle&logoColor=white" alt="Drizzle" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-43B1B0?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/n8n-f37e1a?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
+</p>
 
 - **Lenguajes / Languages:** JavaScript, HTML5, CSS3, PHP, TypeScript  
-- **Frameworks y bibliotecas / Frameworks & Libraries:** React, Next.js, Drizzle  
+- **Frameworks y bibliotecas / Frameworks & Libraries:** React, Next.js, Three.js, Drizzle  
 - **Bases de datos / Databases:** Neon DB, MySQL, Prisma  
 - **APIs:** API Gemini, RESTful APIs, Stripe  
 - **Herramientas / Tools:** SASS, Webpack, Git, Vercel, Node.js, Vite, n8n
@@ -210,15 +231,15 @@ I specialize in developing modern SaaS applications using cutting-edge technolog
 
 ### 📈 Estadísticas de GitHub / GitHub Stats
 
-[![Followers](https://img.shields.io/github/followers/dhren2019?label=Followers&style=flat-square&logo=github)](https://github.com/dhren2019)
-[![Profile](https://img.shields.io/badge/GitHub-dhren2019-181717?style=flat-square&logo=github)](https://github.com/dhren2019)
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhren2019&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=dhren2019&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
----
-
-### 📊 Otras estadísticas / More Stats
-
-[![GitHub Repo](https://img.shields.io/badge/Repositories-See%20profile-lightgrey?style=flat-square&logo=github)](https://github.com/dhren2019?tab=repositories)
-[![Contributions](https://img.shields.io/badge/Contributions-See%20profile-lightgrey?style=flat-square&logo=github)](https://github.com/dhren2019)
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhren2019&theme=tokyonight" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhren2019&theme=tokyonight&utcOffset=1" alt="Productive time" />
+</p>
 
 ---
 
