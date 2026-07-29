@@ -59,17 +59,16 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🥇 Rutas x Toledo 2026</h4>
-      <p><strong>Primer puesto con Rutas x Toledo.</strong></p>
-      <p><a href="https://www.rutasxtoledo.com/">Visitar Rutas x Toledo</a></p>
-      <p>
-        Videojuego turístico para móvil que transforma la visita a Toledo en una aventura interactiva.
-      </p>
-      <p>
-        Los jugadores siguen rutas, completan misiones en monumentos reales, superan retos, coleccionan cartas y desbloquean logros con experiencias 3D y realidad mixta.
-      </p>
-    </td>
-  </tr>
+  <h4>🥇 Rutas x Toledo 2026</h4>
+  <p><strong>Primer puesto con Rutas x Toledo.</strong></p>
+  <p>
+    Videojuego turístico para móvil que transforma la visita a Toledo en una aventura interactiva.
+  </p>
+  <p>
+    Los jugadores siguen rutas, completan misiones en monumentos reales, superan retos, coleccionan cartas y desbloquean logros con experiencias 3D y realidad mixta.
+  </p>
+</td>
+</tr>
 </table>
 
 ### Hackathon e Proyectos Indie / Hackathon & Indie Projects
