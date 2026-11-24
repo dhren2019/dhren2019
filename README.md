@@ -49,6 +49,10 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
   Radar visual de inteligencia de mercado para analizar tendencias, aplicaciones móviles, videojuegos, SaaS y oportunidades de producto, con fuentes y metodología documentadas. Publicado mediante GitHub Pages.  
   *Visual market-intelligence radar for researching trends, mobile apps, games, SaaS, and product opportunities, with documented sources and methodology.*
 
+- **[MovieDrop](https://www.moviedrop.es/)**  
+  Plataforma para descubrir y organizar películas, crear listas colaborativas y planificar maratones y sesiones de cine con amigos.  
+  *Movie discovery and organization platform with collaborative watchlists, movie marathons, and group viewing sessions.*
+
 - **[English OS](https://english-os.rutasxtoletvm.workers.dev/)** · Proyecto de aprendizaje diario de inglés hablado  
   Web estática con lecciones diarias, ejercicios, tarjetas, cuestionarios y seguimiento local del progreso. Incluye un flujo de publicación automatizada con GitHub Actions; el repositorio es privado y no se enlaza aquí.  
   *Daily spoken-English practice web app with lessons, quizzes, flashcards, local progress tracking, and a GitHub Actions publishing workflow.*
