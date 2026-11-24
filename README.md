@@ -43,6 +43,22 @@ I worked for three months teaching training courses for [bilib.es](https://www.b
 
 ---
 
+### 🆕 Proyectos recientes / Latest Projects (2026)
+
+- **[Market Intelligence OS](https://dhren2019.github.io/market-intelligence-os/)** · [Código público](https://github.com/dhren2019/market-intelligence-os)  
+  Radar visual de inteligencia de mercado para analizar tendencias, aplicaciones móviles, videojuegos, SaaS y oportunidades de producto, con fuentes y metodología documentadas. Publicado mediante GitHub Pages.  
+  *Visual market-intelligence radar for researching trends, mobile apps, games, SaaS, and product opportunities, with documented sources and methodology.*
+
+- **English OS** · Proyecto de aprendizaje diario de inglés hablado  
+  Web estática con lecciones diarias, ejercicios, tarjetas, cuestionarios y seguimiento local del progreso. Incluye un flujo de publicación automatizada con GitHub Actions; el repositorio es privado y no se enlaza aquí.  
+  *Daily spoken-English practice web app with lessons, quizzes, flashcards, local progress tracking, and a GitHub Actions publishing workflow.*
+
+- **[LIMINAL — Documentación técnica](https://docs.liminaltattoo.es/)**  
+  Documentación del ecosistema de herramientas para profesionales del tatuaje: planificación de sesiones, TRACE/FLOW, análisis anatómico y motor de color. Proyecto en evolución; el código principal es privado.  
+  *Technical documentation for a tattoo-professional workflow platform, covering session planning, anatomical analysis, and color tooling.*
+
+---
+
 ### 🏆 Premios y Reconocimientos / Awards & Recognition 🏆
 
 <table>
